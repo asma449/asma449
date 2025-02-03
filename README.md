@@ -1,4 +1,4 @@
-## Hi there 👋 Asma Mughal
+## Hi there 👋 I’m Asma Mughal
 
 # 💫 About Me:
 Creating bugs since 2021 <br>I’m currently working on full stack web development using HTML,CSS, JS, React Js, Python ,Flask and Django<br>I’m to collaborate on Full stack Development<br>I’m currently learning Node JS, Express JS and Next JS<br>Ask me about responsive websites, I will try to help if I can<br>Fun fact I love coding
